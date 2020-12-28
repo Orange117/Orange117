@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Blog:[Orange117](https://orange117.github.io/)
-🔭 I’m currently studying at XDU-CS;
+Blog:[Orange117](https://orange117.github.io/)  
+🔭 I’m currently studying at XDU-CS;  
 🌱 I’m currently learning Java;  
 - Now, Studying hard to find a job！💬
