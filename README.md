@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Blog:[Orange117](https://orange117.github.io/)  
 🔭 I’m currently studying at XDU-CS;  
-🌱 I’m currently learning Java/Linux;  
+🌱 I’m currently learning Go/Linux;  
 - Now, Study hard to find a job！💬
