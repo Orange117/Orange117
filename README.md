@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Blog:[Orange117](https://orange117.github.io/)  
-🔭 XDU-CS;  
-🌱 I’m currently learning Go/Linux;  
-Now, Study hard to find a job！💬
+
